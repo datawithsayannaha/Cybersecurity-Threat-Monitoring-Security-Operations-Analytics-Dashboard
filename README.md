@@ -14,7 +14,7 @@ Built using:
 
 ---
 
-![Azure](https://img.shields.io/badge/Database-Azure%20SQL-blue?style=for-the-badge&logo=microsoftazure)
+![Azure](https://img.shields.io/badge/Database-Azure-blue?style=for-the-badge&logo=microsoftazure)
 ![SQL](https://img.shields.io/badge/Language-SQL-orange?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
