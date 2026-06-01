@@ -272,25 +272,25 @@ Visuals:
 
 ## Executive Security Overview
 
-![Executive Security Overview](images/Page1_Executive_Overview.png)
+![Executive Security Overview](images/Executive_Overview.png)
 
 ---
 
 ## User Risk Analytics
 
-![User Risk Analytics](images/Page2_User_Risk_Analytics.png)
+![User Risk Analytics](images/User_Risk_Analytics.png)
 
 ---
 
 ## Network Monitoring Center
 
-![Network Monitoring Center](images/Page3_Network_Monitoring.png)
+![Network Monitoring Center](images/Network_Monitoring.png)
 
 ---
 
 ## Threat & Device Intelligence
 
-![Threat & Device Intelligence](images/Page4_Threat_Device_Intelligence.png)
+![Threat & Device Intelligence](images/Threat_Device_Intelligence.png)
 
 ---
 
